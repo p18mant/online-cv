@@ -8,41 +8,32 @@ sidebar:
 
     # Profile information
     name: Dimitrios Mantzioris
-    tagline: Full Stack Developer
+    tagline: Electronic Enginner Msc
     avatar: mitsos.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p18mant@ionio.gr
     phone: +30 697 45 00000
-    website: github.com/p18mant #do not add http://
+    #website: github.com/p18mant #do not add http://
     #linkedin: alandoe
     github: github.com/p18mant
     #telegram: # add your nickname without '@' sign
     #gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Backgammon
         link:
 
 career-profile:
@@ -55,20 +46,19 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science in Networking and Data Communications
+      university: Kingston University of London
+      time: 2012 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          
+    - degree: Bachelor Degree in Electronic Engineering
+      university: Technological Education Institute of Crete
+      time: 2002 - 2006
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -168,23 +158,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
+        level: 80%
+        
+      - name: Matlab
         level: 95%
+     
+      - name: C & C++
+        level: 75%
+        
+      - name: Photoshop
+        level: 90%
+ 
+      - name: VHDL
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Visual Basic
         level: 60%
+        
+      - name: Assembly
+        level: 95%
+     
+      - name: Protel 99 SE, Dxp Altium Designer
+        level: 95%
+        
+      - name: HFSS, Spice Net, Opnet
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
