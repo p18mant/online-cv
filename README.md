@@ -7,6 +7,8 @@
 
 ## Postal address
 Achilleion
+
 49084 Corfu
-GREECE
+
+Greece
 
