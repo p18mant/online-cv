@@ -121,16 +121,16 @@ skills:
         level: 90%
 
       - name: Java
-        level: 80%
+        level: 68%
         
       - name: Matlab
         level: 95%
      
       - name: C & C++
-        level: 75%
+        level: 70%
         
       - name: Photoshop
-        level: 90%
+        level: 85%
  
       - name: VHDL
         level: 90%
@@ -139,7 +139,7 @@ skills:
         level: 60%
         
       - name: Assembly
-        level: 95%
+        level: 90%
      
       - name: Protel 99 SE, Dxp Altium Designer
         level: 95%
