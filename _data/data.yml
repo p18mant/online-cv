@@ -89,8 +89,9 @@ projects:
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     
     assignments:
+
       - title: SmartDAB
-        link: "#"
+        link: "#hook"
         tagline: "Participant in research program with title: Smart antenna study and design using techniques of computational electromagnetics and pilot development and operation of a digital audio broadcasting station at Chania of Crete
 
       - title: MSc Dissertation
