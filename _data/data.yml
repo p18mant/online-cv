@@ -82,11 +82,8 @@ experiences:
         Technical support of passenger operation system
         
 projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Projects
+    intro: >
     
     assignments:
 
